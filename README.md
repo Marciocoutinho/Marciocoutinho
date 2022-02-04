@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marciocoutinho
-- 👨‍💻 I,m corrently working at Centro de Educação Profissional Agonalto Pacheco da Silva ande Senai-Alagoas
+- 👨‍💻 I,m currently working at Centro de Educação Profissional Agonalto Pacheco da Silva ande Senai-Alagoas
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT AND REACTJS
 - 🌱 I’m currently learning, I'm studying at @Rocketseat ignite, to become a successful dev.
 - 💞️ I’m looking to collaborate on with the dev community.
