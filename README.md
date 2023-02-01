@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcio Coutinho</h1>
+<h1 align="center">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcio Coutinho</h1>
 <h3 align="center">A Computer Educator  focused on helping people start computing</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marciocoutinho" alt="marciocoutinho" /> </p>
 
